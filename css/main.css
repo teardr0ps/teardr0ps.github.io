@@ -15,7 +15,7 @@ body {
 header {
 	padding-top: 7rem;
 	padding-bottom: calc(10rem - 56px);
-	background-image: url("../img/header_black.jpg");
+	background: url("../img/header_black.jpg");
 	background-position: center center;
 	background-size: cover;
 	height: 85vh;
